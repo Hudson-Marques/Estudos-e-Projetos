@@ -7,7 +7,7 @@ cidade = "Santo André"
 
 texto_sobre_mim = f"""
 "Olá, me chamo Hudson. Tenho {39} anos e trabalho como Estoquista.
-Atualmente, moro em {cidade}. Gosto de aprender sobre tecnologia e estou sempre em busca de novos desafios para crescer profissionalmente.
+Atualmente, moro em Santo André. Gosto de aprender sobre tecnologia e estou sempre em busca de novos desafios para crescer profissionalmente.
 Estou cursando o segundo semestre do curso de Análise e Desenvolvimento de Sistemas.
 """
 
